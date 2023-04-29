@@ -1,3 +1,5 @@
+Note: While this is a group project, I, Cole Yonkers, am the only one who wrote any code for this project. 
+
 # 407-Final-Project
 
 **Final Team Project**
